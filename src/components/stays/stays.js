@@ -1,4 +1,3 @@
-import './title.css'
 import React, { useState } from 'react';
 // https://www.better.dev/displaying-lists-in-react-jsx
 
